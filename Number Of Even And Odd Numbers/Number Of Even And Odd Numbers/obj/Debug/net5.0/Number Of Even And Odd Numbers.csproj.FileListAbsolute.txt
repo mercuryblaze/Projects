@@ -1,0 +1,16 @@
+C:\Users\Виталий\source\repos\#SimpleCode\Number Of Even And Odd Numbers\Number Of Even And Odd Numbers\bin\Debug\net5.0\Number Of Even And Odd Numbers.exe
+C:\Users\Виталий\source\repos\#SimpleCode\Number Of Even And Odd Numbers\Number Of Even And Odd Numbers\bin\Debug\net5.0\Number Of Even And Odd Numbers.deps.json
+C:\Users\Виталий\source\repos\#SimpleCode\Number Of Even And Odd Numbers\Number Of Even And Odd Numbers\bin\Debug\net5.0\Number Of Even And Odd Numbers.runtimeconfig.json
+C:\Users\Виталий\source\repos\#SimpleCode\Number Of Even And Odd Numbers\Number Of Even And Odd Numbers\bin\Debug\net5.0\Number Of Even And Odd Numbers.runtimeconfig.dev.json
+C:\Users\Виталий\source\repos\#SimpleCode\Number Of Even And Odd Numbers\Number Of Even And Odd Numbers\bin\Debug\net5.0\Number Of Even And Odd Numbers.dll
+C:\Users\Виталий\source\repos\#SimpleCode\Number Of Even And Odd Numbers\Number Of Even And Odd Numbers\bin\Debug\net5.0\ref\Number Of Even And Odd Numbers.dll
+C:\Users\Виталий\source\repos\#SimpleCode\Number Of Even And Odd Numbers\Number Of Even And Odd Numbers\bin\Debug\net5.0\Number Of Even And Odd Numbers.pdb
+C:\Users\Виталий\source\repos\#SimpleCode\Number Of Even And Odd Numbers\Number Of Even And Odd Numbers\obj\Debug\net5.0\Number Of Even And Odd Numbers.csproj.AssemblyReference.cache
+C:\Users\Виталий\source\repos\#SimpleCode\Number Of Even And Odd Numbers\Number Of Even And Odd Numbers\obj\Debug\net5.0\Number Of Even And Odd Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталий\source\repos\#SimpleCode\Number Of Even And Odd Numbers\Number Of Even And Odd Numbers\obj\Debug\net5.0\Number Of Even And Odd Numbers.AssemblyInfoInputs.cache
+C:\Users\Виталий\source\repos\#SimpleCode\Number Of Even And Odd Numbers\Number Of Even And Odd Numbers\obj\Debug\net5.0\Number Of Even And Odd Numbers.AssemblyInfo.cs
+C:\Users\Виталий\source\repos\#SimpleCode\Number Of Even And Odd Numbers\Number Of Even And Odd Numbers\obj\Debug\net5.0\Number Of Even And Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\source\repos\#SimpleCode\Number Of Even And Odd Numbers\Number Of Even And Odd Numbers\obj\Debug\net5.0\Number Of Even And Odd Numbers.dll
+C:\Users\Виталий\source\repos\#SimpleCode\Number Of Even And Odd Numbers\Number Of Even And Odd Numbers\obj\Debug\net5.0\ref\Number Of Even And Odd Numbers.dll
+C:\Users\Виталий\source\repos\#SimpleCode\Number Of Even And Odd Numbers\Number Of Even And Odd Numbers\obj\Debug\net5.0\Number Of Even And Odd Numbers.pdb
+C:\Users\Виталий\source\repos\#SimpleCode\Number Of Even And Odd Numbers\Number Of Even And Odd Numbers\obj\Debug\net5.0\Number Of Even And Odd Numbers.genruntimeconfig.cache
